@@ -1,6 +1,6 @@
 {
   "name": "mts-aliyun",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "repository": {
@@ -8,7 +8,7 @@
     "url": "https://github.com/rushrunner17/mts-aliyun"
   },
   "dependencies": {
-  "urllib": "^2.5.0"
+    "urllib": "^2.5.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
